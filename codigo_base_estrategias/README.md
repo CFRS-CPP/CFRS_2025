@@ -1,19 +1,18 @@
-como usar a o cÛdigo base:
+# Como usar a o c√≥digo base:
 
 
-- Depois de instalar o simulador, troque a pasta "Strategy" que est· no  C:\Strategy pela pasta "Strategy" contendo o cÛdigo base.
+* Depois de instalar o simulador, troque a pasta que est√° instalada em **C:\Strategy** pela pasta **"Strategy"** disponibilizada aqui contendo o c√≥digo base.
 
-- Pronto! o cÛdigo base est· preparado para vocÍ.
+* Modifique no c√≥digo base a parte da estrat√©gia criando assim a seu pr√≥prio time.
 
-- modifique no cÛdigo base a parte da estratÈgia criando assim a seu prÛprio time.
+* **CUIDADO:** sempre salve uma c√≥pia de seguran√ßa da estrat√©gia antes de alter√°-la. Assim, caso ocorra algum erro, fica mais f√°cil de desfazer.
 
-- CUIDADO: sempre salve uma cÛpia de seguranÁa da estratÈgia antes de alter·-la. Assim, caso ocorra algum erro, fica mais f·cil de desfazer.
+* Existe um c√≥digo base para o time azul e um para o time amarelo. **N√ÉO** troque os c√≥digos dos times.
 
-- Existe um cÛdigo base para o time azul e um para o time amarelo. N√O troque os cÛdigos dos times.
-
-- no time amarelo sÛ mande comando para os robÙs y1, y2, y3, y4 e y5 e no time azul apenas para os robÙs b1, b2, b3, b4 e b5.
-
+* Quando for programar o time **amarelo** </span> s√≥ envie comandos para os rob√¥s **y1, y2, y3, y4 e y5**.
+* Quando for programar o time **azul** envie comandos apenas para os rob√¥s **b1, b2, b3, b4 e b5**.
 
 Montem seus times e divirtam-se!
 
-(Grupo de Pesquisa em RobÛtica da UFS - www.gprufs.org)
+
+(Adaptado do original fornecido pelo Grupo de Pesquisa em Rob√≥tica da UFS - www.gprufs.org)
