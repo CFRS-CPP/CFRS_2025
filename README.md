@@ -17,6 +17,7 @@ da Semana Nacional de Ciência e Tecnologia 2025.
 
 * O **III Campeonato de Futebol de Robôs do IFS** disponibiliza, através do YouTube, um vídeo tutorial disponível [neste link](https://www.youtube.com/watch?v=ct4DZDUCJLE) que serve de subsídio para o entendimento da programação dos robôs.
 
+
 ## 🔗 Links úteis
 Em caso de dúvidas, contatem:
 
