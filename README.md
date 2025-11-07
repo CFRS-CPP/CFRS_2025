@@ -11,9 +11,9 @@ da Semana Nacional de Ciência e Tecnologia 2025.
 
 * O manual completo do campeonato está disponível no arquivo [Manual_CFRS_2025.pdf](Manual_CFRS_2025.pdf).
 
-* Na pasta **softwares** está disponível [**o software do simulador**](https://github.com/edivaldogsjr/CFRS_2025/blob/main/softwares/Middle_League_SimuroSot.exe), que é de acesso livre e sem ônus; a instalação é simples e autoexplicativa.
+* Na pasta **softwares** está disponível [**o software do simulador**](https://github.com/CFRS-CPP/CFRS_2025/blob/main/softwares/Middle_League_SimuroSot.exe), que é de acesso livre e sem ônus; a instalação é simples e autoexplicativa.
 
-* Veja a pasta de [**estratégias**](https://github.com/edivaldogsjr/CFRS_2025/tree/main/codigo_base_estrategias) para baixar, e instalar, códigos base de estratégias que deverão ser utilizados na progrmação dos times.
+* Veja a pasta de [**estratégias**](https://github.com/CFRS-CPP/CFRS_2025/tree/main/codigo_base_estrategias) para baixar, e instalar, códigos base de estratégias que deverão ser utilizados na progrmação dos times.
 
 * O **III Campeonato de Futebol de Robôs do IFS** disponibiliza, através do YouTube, um vídeo tutorial disponível [neste link](https://www.youtube.com/watch?v=ct4DZDUCJLE) que serve de subsídio para o entendimento da programação dos robôs.
 
