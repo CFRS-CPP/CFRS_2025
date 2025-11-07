@@ -15,7 +15,7 @@ da Semana Nacional de Ciência e Tecnologia 2025.
 
 * Veja a pasta **[codigo_base_estrategias](https://github.com/CFRS-CPP/CFRS_2025/tree/main/codigo_base_estrategias)** para baixar, e instalar, códigos base de estratégias que deverão ser utilizados na programação dos times.
 
-* O **III Campeonato de Futebol de Robôs do IFS** disponibiliza, através do YouTube, um vídeo tutorial disponível [neste link](https://www.youtube.com/watch?v=ct4DZDUCJLE) que serve de subsídio para o entendimento da programação dos robôs.
+* O **III Campeonato de Futebol de Robôs do IFS** disponibiliza, através do YouTube, um vídeo tutorial disponível [neste link](https://www.youtube.com/watch?v=ct4DZDUCJLE); ele serve de subsídio para o entendimento da programação dos robôs.
 
 
 ## 🔗 Links úteis
